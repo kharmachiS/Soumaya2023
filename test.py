@@ -5,3 +5,4 @@ for i in ch:
 print (Liste)
 print("ajouter")
 print ("Hello")
+x=10
