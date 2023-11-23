@@ -4,3 +4,4 @@ for i in ch:
     Liste.append(i)
 print (Liste)
 print("ajouter")
+print ("Hello")
